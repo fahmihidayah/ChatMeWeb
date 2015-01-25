@@ -1,0 +1,2 @@
+1. create migration 
+	php artisan migrate:make create_chat_message_table --create=chat_message
